@@ -1,2 +1,1 @@
-# stats202c
-Bayesian Mortality Prediction with Sensitivity Analysis
+# Bayesian Mortality Prediction with Sensitivity Analysis
