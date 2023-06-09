@@ -1,5 +1,7 @@
 # Bayesian Mortality Prediction with Sensitivity Analysis
 
+## Abstract
+
 Patients admitted to the hospital would ideally be returned to good health and discharged in an appropriately timely manner. To make such a decision, it would be reasonable to desire a decision rule on when to discharge a patient based on their predicted likelihood to die.
 
 In this case, we reviewed a dataset from a 2015 study from the Institute of Cardiology and Allied Hospital in Pakistan where 299 patients were admitted with heart failure and roughly 1/3 of the patients had died post discharge. Certain medical history measurements were provided for each patient in the form of age, sex, smoking status, diabetes status, and anaemia status. Along with this, measurements of the patients' ejection fraction, serum creatinine, blood pressure, serum sodium, platelets, and creatinine phosphokinase were also included. For some background, serum creatinine was used as a measurement of kidney performance and ejection fraction was used to measure heart performance. In this paper we will focus on age, smoking status, diabetes status, anaemia status, ejection fraction, and serum creatinine as those were identified as significant in the reviewed literature.
